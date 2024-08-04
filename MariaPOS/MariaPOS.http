@@ -1,0 +1,6 @@
+@MariaPOS_HostAddress = http://localhost:5105
+
+GET {{MariaPOS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
